@@ -1,6 +1,5 @@
-# Tarea 03
+# Tarea 03. Funciones
 
-Tarea 3. Funciones.
 
 Consulta el documento anexo Tarea_03.pdf para ver los detalles.
 
